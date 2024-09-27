@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "侯 雨彤|Yutong HOU 的个人主页"
+#title: "侯 雨彤|Yutong HOU 的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
