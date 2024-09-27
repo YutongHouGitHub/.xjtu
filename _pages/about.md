@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "教育经历"
+title: "侯 雨彤|Yutong HOU"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 教育经历
 ======
-2023.09-至今，西安交通大学能源动力与工程学院（钱学森荣誉学院），储能科学与工程专业，本科
+2023.09-至今，西安交通大学能源动力与工程学院，储能科学与工程专业，本科
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
