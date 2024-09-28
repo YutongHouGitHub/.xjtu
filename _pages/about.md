@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "侯 雨彤|Yutong HOU 的个人主页"
+title: "侯 雨彤 Yutong HOU 的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,15 +14,12 @@ redirect_from:
 
 研究方向
 ------
-热质储能
+热质储能，太阳能利用，全钒液流电池
 
 获奖情况
 ------
-
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+优秀共青团员，西安交大仲英书院，2024
+三好学生，河南省教育厅，2023
 
 For more info
 ------
