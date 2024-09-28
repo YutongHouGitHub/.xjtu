@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "侯 雨彤 Yutong HOU "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "侯雨彤"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "陕西省西安市咸宁西路28号西安交通大学能源与动力工程学院"
+  employer         : "西安交通大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yutonghou@stu.xjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
