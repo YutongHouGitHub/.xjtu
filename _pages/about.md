@@ -19,10 +19,6 @@ redirect_from:
 获奖情况
 ------
 优秀共青团员，西安交大仲英书院，2024\
-华东杯数学建模比赛一等奖，复旦大学，2024\
+华东杯数学建模比赛一等奖，复旦大学数学学院，2024\
 全国大学生数学竞赛三等奖，中国数学会，2023\
 三好学生，河南省教育厅，2023
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
